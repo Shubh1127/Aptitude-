@@ -1,0 +1,31 @@
+1.Mr.Kashyap purchased an air conditioner for Rs 12000 and sold it for Rs 15000. What was the profit
+percentage?
+(a) 15
+(b) 20
+(c) 25
+(d) 35
+(e) None of these
+
+Ans= ((profit or loss)/cost price)*100
+
+    so 15000-12000=3000 
+    (3000/12000)*100= 25%
+
+2.A man buys 10 articles for Rs8 and sells them at Rs1.25 per article. His gain per cent is:
+(a) 55%
+(b) 561%
+(c) 40%
+(d) None of these
+
+Ans= 8/10= 0.8 Rs for 1 article
+    profit= 1.25 - 0.8 = 0.45
+
+    % = (.45/.8)*100 = 450/8 = 56.25
+
+3.Hemant purchased 120 rims of paper at Rs80 per rim. He spent Rs280 on transportation, paid octopi at
+the rate of 40 paise per rim and paid Rs 72 to the coolie. If he wants to have a gain of 8%, the selling price
+per rim must be:
+(a) Rs89
+(b) Rs90
+(c) Rs95
+(d) None of these

@@ -157,3 +157,30 @@ price per dozen should he sell them to make a profit of 20%?
 (b) Rs 5
 (c) Rs 6
 (d) Rs 7
+
+Ans = let us assume equal no. of clips
+
+    6 clips, at 3 for 1 rupee
+    6 clips, at 2 for 1 rupee
+
+    so first 6 clips price is  = 2 rupee ( 3 clips for 1 , so 6 clips at 2)
+
+    next 6 clips price is = 3 rupee ( 2 clips for 1, so 6 clips at 3)
+
+    so the cost  price for a dozen of clips is 3+2=5
+
+    if he wants 20% profit then
+
+    MF=100+20/100 = 120/100= 1.2
+
+    selling price = cp * MF
+                  = 5 * 1.2 = > 6
+
+10.A dealer buys dry fruit at the rate of Rs 100, Rs 80 and Rs 60 per kg. He bought them in the ratio
+12 : 15 : 20 by weight. He in total gets 20% profit by selling the first two and at last he finds he has no
+gain no loss in selling the whole quantity which he had. What was the percentage loss he suffered for the
+third quantity?
+(a) 20%
+(b) 30%
+(c) 40%
+(d) 50%

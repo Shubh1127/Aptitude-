@@ -150,3 +150,10 @@ Ans = Mark Price = x
 
         CP =1000
 
+
+9.A man bought a number of clips at 3 for a rupee and an equal number at 2 for a rupee. At what
+price per dozen should he sell them to make a profit of 20%?
+(a) Rs 4
+(b) Rs 5
+(c) Rs 6
+(d) Rs 7

@@ -104,7 +104,7 @@ Ans=
 
         20*20=400/100 = 4%
 
-        
+
 7.The profit earned after selling an article for Rs 1754 is the same as loss incurred after selling the article for
 Rs 1492. What is the cost price of the article?
 (a) Rs 1523
@@ -112,3 +112,19 @@ Rs 1492. What is the cost price of the article?
 (c) Rs 1623
 (d) Rs 1689
 (e) None of these
+
+Ans =                   P = L
+
+                         sp-cp = cp-sp
+
+                         1754-cp=cp-1492
+
+                         2cp=1754+1492==> cp =3246/2= 1623
+
+8. A person sells taperecorders at Rs1134 each after giving a discount of 19% on the marked price. Had he
+not given the discount, he would have earned a profit of 40% on the cost price. The cost price of each
+taperecorder is:
+(a) Rs1000
+(b) Rs1200
+(c) Rs1400
+(d) None of these

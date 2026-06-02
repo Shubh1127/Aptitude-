@@ -128,3 +128,25 @@ taperecorder is:
 (b) Rs1200
 (c) Rs1400
 (d) None of these
+
+Ans = Mark Price = x
+
+        discount = 19%
+        so selling price is = 100-19=81% of x
+
+        x * 81% = 1134 as selling price is 1134 Rs
+
+        x= 1134 * 100 /81 ==> 1400
+
+        if he will not give any discount then he gains 40%
+
+        so MF=100+40=140% = 1.4
+
+        so SP=CP * MF
+
+        1400=cp * 1.4 
+
+        cp = 1400/1.4 
+
+        CP =1000
+

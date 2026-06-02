@@ -184,3 +184,14 @@ third quantity?
 (b) 30%
 (c) 40%
 (d) 50%
+
+Ans=  12*100 + 15*80 + 20*60 = CP
+        1200   1200    1200  =3600 SP
+
+        120/100*1200 = 240  + 240 
+
+        for the last he didn't get the profit and for the whole quantity which he had he has no loss and no gain
+
+        so it's -480 to nulify the profit of first two as 240+240=480 
+
+        so the loss percentage is 480/1200  *100 =40%

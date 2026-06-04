@@ -195,3 +195,24 @@ Ans=  12*100 + 15*80 + 20*60 = CP
         so it's -480 to nulify the profit of first two as 240+240=480 
 
         so the loss percentage is 480/1200  *100 =40%
+
+11.Vineet calculates his profit percentage on the selling price whereas Roshan calculates his
+profit on the cost price. They find that the difference of their profits is Rs 275. If the
+selling price of both of them are the same and Vineet gets 25% profit whereas Roshan gets
+15% profit, find their selling price.
+(a) Rs 2100
+(b) Rs 2250
+(c) Rs 2300
+(d) Rs 2350
+
+Ans=  profit of vineet - profit of roshan = 275
+
+        rohan calculates profit on cost price and it gains 15% and vineet calculates profit on selling price
+
+        so 115/100x and 125/100x 
+
+        (125/100x -x ) - (x -100/115x) = 275 
+
+        25x/100 - 15x/100 = 275
+
+        x= 2300
